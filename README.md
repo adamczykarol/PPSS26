@@ -5,7 +5,7 @@ Feasibility study to measure transverse tau polarization in semitauonic B decays
 - PPSS_2026_project_description.pdf
 
 ### How to on running Jupyter notebook @ Cyfronet: 
-- 0_create_venv_Athena.pdf 
+- 0_create_venv_(Ares/Athena).pdf
 - https://jupyter.plgrid.pl/
 
 ### Exploratory Data Analysis with feature engineering:
